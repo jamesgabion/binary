@@ -1,6 +1,6 @@
 /******************************************************************
  * Program 1: Conversion from binary to decimal representation
- * Programmer: Happy B. Gernale
+ * Programmer: James G. Gabion
  * 
  * Class: IS 1-1        Instructor: John Mark D. Gabrentina
  *        
